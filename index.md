@@ -1,14 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Machine Learning Projects
 Start from basic projects on natural Language Processing. Use bayes and some basic language libraries to solve the given problem like:
