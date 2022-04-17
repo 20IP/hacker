@@ -10,114 +10,26 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Machine Learning Projects
+Start from basic projects on natural Language Processing. Use bayes and some basic language libraries to solve the given problem like:
+Separation of diseases and classification of diseases from hospital discharge papers
+Classification of disease codes (ICD10)
+Suggest next word, correct word...
+Classify sentences...
+<center><img src="assets/images/icd10.png"/></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Deep Learning Projetcs
 
-## Header 2
+From building basic models such as classify Images applying CNN to higher models using larger backbones such as Inception, Mobile Net, Xception, Densnet, Resnet... 
+> Application in predicting position, coordinates, object identification, OCR text many applications in life.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<center><img src="assets/images/backbone.PNG"/></center>
 
-### Header 3
+# Build models and Convert Framework. Deployment Products
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Application development of tensorflow and Pytorch models.
+Convert models to be more compact in size, library use, and computational structure.
+> Quarantine :F64-F32-F16. <br>
+> Tensor protobufer, TensorRT, Tensorlite, Onnx, OpenVINO... </r>
+> Using dev Board, Embedding Board. Jetson family, Coral Devboar, Coral accelerator, Raspberry <br>
+<center><img src="assets/images/onnx.png"/></center>
